@@ -2,6 +2,7 @@
 
 # :rocket: Desenvolvimento Web e Mobile
 Aprendizado em desenvolvimento Web, Mobile, utilizando diversas tecnologias do mercado
+
 Comecimentos tanto em front-end, quanto back-end.
 
 [Tecnologias](#tecnologias)
